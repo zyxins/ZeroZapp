@@ -1,10 +1,10 @@
-package com.netsky.zerozapp.about;
+package com.zeronesky.zerozapp.about;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.netsky.zerozapp.R;
+import com.zeronesky.zerozapp.R;
 import com.vansuita.materialabout.builder.AboutBuilder;
 
 /**
