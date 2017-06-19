@@ -1,4 +1,4 @@
-package com.netsky.zerozapp;
+package com.zeronesky.zerozapp;
 
 import android.content.Intent;
 import android.os.Bundle;

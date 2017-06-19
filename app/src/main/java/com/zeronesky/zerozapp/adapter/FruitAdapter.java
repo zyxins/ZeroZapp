@@ -1,4 +1,4 @@
-package com.netsky.zerozapp.adapter;
+package com.zeronesky.zerozapp.adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,9 +11,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.netsky.zerozapp.FruitActivity;
-import com.netsky.zerozapp.R;
-import com.netsky.zerozapp.model.Fruit;
+import com.zeronesky.zerozapp.FruitActivity;
+import com.zeronesky.zerozapp.R;
+import com.zeronesky.zerozapp.model.Fruit;
 
 import java.util.List;
 

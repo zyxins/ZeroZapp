@@ -1,4 +1,4 @@
-package com.netsky.zerozapp;
+package com.zeronesky.zerozapp;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -20,9 +20,9 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import com.netsky.zerozapp.about.AboutActivity;
-import com.netsky.zerozapp.adapter.FruitAdapter;
-import com.netsky.zerozapp.model.Fruit;
+import com.zeronesky.zerozapp.about.AboutActivity;
+import com.zeronesky.zerozapp.adapter.FruitAdapter;
+import com.zeronesky.zerozapp.model.Fruit;
 
 import java.util.ArrayList;
 import java.util.List;

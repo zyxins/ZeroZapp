@@ -1,4 +1,4 @@
-package com.netsky.zerozapp.model;
+package com.zeronesky.zerozapp.model;
 
 /**
  * Created by zyxins on 2017-03-04.
